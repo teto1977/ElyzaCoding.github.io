@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ELYZA Learn To Code</title>
+	<style>
+	h2{
+		color: rgb(20,57,222);
+	  }
+	body {
+		background-color: rgb(97,250,255);
+		}
+	  
+	  
+	</style>
+
+    </head>
+    <body>
+    <h1>All About Roblox By Elyza</h1>
+    
+    <img src="https://i.ytimg.com/vi/as35zzOfCQs/maxresdefault.jpg" alt="Picture of Roblox Friends" width="750">
+
+    <h2>What Is Roblox?</h2>
+    <p>Roblox is an online gameing platform. That means anyone using Roblox create their own game for others to play.<br>
+I <strong>LOVE</strong> this game.<br>
+<strong>You can play with your <em>friends</em> from school and explore worlds together.</strong><br>
+Players can play games while seeing other players and socially interacting with them in chat windows.
+</p>
+
+<img src="https://www.lifewire.com/thmb/iwPc1TIYO1gSLdnqpEpFvZhWuPM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Roblox_MeepCity-5978fbc0054ad90010302587.jpg">
+
+<h3>Top 3 Most Favorite Worlds</h3>
+<ol>
+    <li>Royale High</li>
+    <li>Tower Of Hell</li>
+    <li>Bloxburg</li>
+</ol>
+
+<h3>Activities in Royal High</h3>
+<ul>
+    <li>Dress up!</li>
+    <li>Collect diamonds to buy dresses and accessories!</li>
+    <li>Travel to different worlds!</li>
+</ul>
+
+<h2>Meet My Character</h2>
+
+<img src="https://i.ytimg.com/vi/FI_bKJgbn9E/maxresdefault.jpg" alt="My Character in Royale High" width="">
+
+<p>She loves to dress up<br>
+She loves to collect diamonds<br>
+She likes to roleplay the mommy<br>
+She has glowing hair and magical wings<br>
+
+OK bye...thats enough coding for now.<br>
+Love <strong>Lyza</strong>
+</p>
+    </body>
+</html>
